@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 180, 193);
+    font-family: "Kanit", sans-serif;
+}
+body h1 {
+    margin: 50px;
+    justify-self: center;
+}
+body video{
+    margin: 50px;
+    margin-left: 630px;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    background-color: rgb(255, 180, 193);
+    border-radius: 200px; }
+    
+    
+    body p {
+    margin: 0;
+    justify-self: center;
+    font-size: 50px;
+
+}

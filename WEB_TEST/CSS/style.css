@@ -1,0 +1,37 @@
+
+body{ 
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(255, 180, 193);
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    font-family: "Kanit", sans-serif;
+    
+    
+}
+form{
+    width: 400px;
+    height: 150px;
+}
+ 
+fieldset{
+    background-color: rgb(255, 197, 207);
+    border: none;
+    border-radius: 20px;
+    box-shadow:0 8px 32px rgb(190, 124, 135) ;
+    text-align: center;   
+}
+fieldset h1{
+    margin: 0;
+    font: size 45px;;
+}
+fieldset button{
+    color: rgb(255, 255, 255);
+    background-color: white;
+    border: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
